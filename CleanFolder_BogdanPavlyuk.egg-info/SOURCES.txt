@@ -1,0 +1,9 @@
+README.md
+setup.py
+CleanFolder_BogdanPavlyuk.egg-info/PKG-INFO
+CleanFolder_BogdanPavlyuk.egg-info/SOURCES.txt
+CleanFolder_BogdanPavlyuk.egg-info/dependency_links.txt
+CleanFolder_BogdanPavlyuk.egg-info/entry_points.txt
+CleanFolder_BogdanPavlyuk.egg-info/top_level.txt
+clean_folder/__init__.py
+clean_folder/clean.py

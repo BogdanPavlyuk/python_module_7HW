@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: CleanFolder-BogdanPavlyuk
+Version: 0.0.6
+Summary: Clean Folder file sorter by Python
+Home-page: https://github.com/BogdanPavlyuk
+Author: Bogdan Pavlyuk
+Author-email: bodjapavljuk@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
